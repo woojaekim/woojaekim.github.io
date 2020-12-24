@@ -27,7 +27,7 @@ linkedin_username: woojae-kim-266729178
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ph.D. program, Multi-dimensional Insight LAB
+  <mark>Ph.D. program</mark>, Multi-dimensional Insight LAB
   Research Topics
   - Deep Learning/Computer Vision
   - Domain Translation (Image Enhancement, Frame Interpolation, Image Style Transfer)
