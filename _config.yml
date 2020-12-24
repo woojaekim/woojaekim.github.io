@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Woojae Kim
 title: Ph.D. Candidate 
-email: wooyoa@yonseia.ac.kr
+email: wooyoa@yonsei.ac.kr
 #phone: TBA
 cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
