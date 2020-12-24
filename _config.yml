@@ -27,16 +27,12 @@ linkedin_username: woojae-kim-266729178
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-
-Ph.D. program, Multi-dimensional Insight LAB
-Research Topics
-Deep Learning, Computer Vision
-Domain Translation (Image Enhancement, Frame Interpolation, Image Style Transfer)
-Perceptual Image, Video, VR Quality Assessment
-Visual Sickness Medical Assessment (VR-AR)
-#    - Tables
-#    - Links
-#    - Images
+  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+    - Tables
+    - Links
+    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
