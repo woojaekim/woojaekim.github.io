@@ -27,13 +27,13 @@ linkedin_username: woojae-kim-266729178
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-<mark>Ph.D. program, Multi-dimensional Insight LAB</mark>
+
+Ph.D. program, Multi-dimensional Insight LAB
 Research Topics
-<mark>-</mark> Deep Learning/Computer Vision
-<mark>-</mark> Domain Translation (Image Enhancement, Frame Interpolation, Image Style Transfer)
-<mark>-</mark> Perceptual Image/Video/VR Quality Assessment
-<mark>-</mark> Visual Sickness Medical Assessment (VR/AR) 
-#    - [CV](https://woojaekim.github.io/resume.pdf)
+Deep Learning/Computer Vision
+Domain Translation (Image Enhancement, Frame Interpolation, Image Style Transfer)
+Perceptual Image/Video/VR Quality Assessment
+Visual Sickness Medical Assessment (VR/AR)
 #    - Tables
 #    - Links
 #    - Images
