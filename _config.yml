@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "SP Tech Blog"
 title_separator          : "-"
-subtitle                 : "Image Processing Tech" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "WrrKK"
 description              : "Signal Processing and AI tech review."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "WrrKK"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Image_Processing-Vision"
+  bio              : ""
   location         : "Seoul, Korea"
   email            : "wooyoa@yonsei.ac.kr"
   links:
