@@ -1,145 +1,294 @@
-# Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-
-# Personal info
-name: Woojae Kim
-title: Ph.D. Candidate 
-email: wooyoa@yonsei.ac.kr
-#phone: TBA
-cv   : "resume.pdf"
-#website: Your website (eg. https://google.com)(optional)
-
-# Social links
-#twitter_username: jekyllrb
-github_username:  woojaekim
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-linkedin_username: woojae-kim-266729178
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
-
-# About Section
-about_title: About Me #(Use this to override about section title)
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  <mark>Ph.D. candidate</mark> Yonsei University, Multi-dimensional Insight LAB
-  
-  **Research Topics**
-  - Deep Learning/Computer Vision
-  - Domain Translation (Image Enhancement, Frame Interpolation, Image Style Transfer)
-  - Perceptual Image/Video/VR Quality Assessment
-  - Visual Sickness Medical Assessment (VR/AR)
-
-  **International Experiences**
-  - Research Scholarship | *NTU* | 2018.06 ~ 09.2018
-
-        · Nanyang Technological University (NTU, Singapore)
-        · Project title: "Deep-learning based Quality of Experience Analysis",
-          Major-Advisor: Professor Weisi Lin (Fellow, IEEE).
-
-  - Standardization Experience | *IEEE SA, P3333.1 WG* | 2015 ~
-
-        · Member, P3333.1, Standardization Working Group,
-          IEEE. PAR P.3333.1.2 and P3333.1.3
-        · Received "Certificate of Appreciation from IEEE Computer Society".
-
-  - Editorial Experience | *IEEE* | 2015 ~
-
-        · Editorial Reviewer on Conferences and Journal.
-        · Int’l Conferences: 2018, 2019 IEEE ICME, and IEEE ICIP.
-        · Int’l Journal: IEEE TCSVT, TIP.
-
-
-more_title: Publications #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  **INT’L JOURNALS ON ARTIFICIAL INTELLIGENCE AND SIGNAL PROCESSING**
-
-  1. **Woojae Kim**, S. Lee and A.C. Bovik, “VR Sickness versus VR Presence: A Statistical Prediction Model", IEEE Transactions on Image Processing (**TIP**), 30, 559-571, (2020).
-
-  2. **Woojae Kim**, A.D. Nguyen, S. Lee, and A.C. Bovik, “Dynamic Receptive Fields Generation for Full-Reference Image Quality Assessment", IEEE Transactions on Image Processing (**TIP**) 29, 4219-4231 (2020).
-
-  3. **Woojae Kim**, S. Ahn, A.D. Nguyen, J. Kim, J. Kim, H. Oh and S. Lee, “Modern trends on quality of experience assessment and future work", APSIPA Transactions on Signal and Information Processing (**T-SIP**) 8, (2019).
-
-  4. J. Kim, H. Oh, **Woojae Kim**, S. Choi, W. Son, and S. Lee, “A Deep Motion Sickness Predictor Induced by Visual Stimuli in Virtual Reality", IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 1 - 13, (2020).
-
-  5. A.D. Nguyen, **Woojae Kim**, J. Kim, W. Lin, and S. Lee, “Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding", IEEE **Access** 7, (2019).
-
-  6. H. Kim, S. Ahn, **Woojae Kim**, and S. Lee, “Visual Preference Assessment on Ultra-High-Definition Images", IEEE Transactions on Broadcasting (**TBC**) 62, 4 (2016).
-
-  *Under Review*:  1. K. Lee, **Woojae Kim**, S. Lee, “From Human Pose Similarity Metric to 3D Human Pose Estimator: Temporal Propagating LSTM Networks”, IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), submitted, (2020).
-
-  **INT’L CONFERENCES ON COMPUTER VISION AND PATTERN RECOGNITION**
-
-  1. **Woojae Kim**, J. Kim, S. Ahn, J. Kim, and S. Lee, “Deep Video Quality Assessor: From Spatio-temporal Visual Sensitivity to A Convolutional Neural Aggregation Network.", European Conference on Computer Vision (**ECCV**), (2018).
-
-  2. J. Kim, **Woojae Kim**, H. Oh, S. Lee and S. Lee, “A Deep Cybersickness Predictor based on Brain Signal Analysis for Virtual Reality Contents.", IEEE International Conference on Computer Vision (**ICCV**), (2019).
-
-  3. A.D. Nguyen, S. Choi, **Woojae Kim**, and S. Lee, “GraphX-convolution for point cloud deformation in 2D-to-3D conversion.", IEEE International Conference on Computer Vision (**ICCV**), (2019).
-
-  **INT’L CONFERENCES ON SIGNAL PROCESSING**
-
-  1. **Woojae Kim**, H. Kim, H. Oh, J. Kim and S. Lee, “No-Reference Perceptual Sharpness Assessment for Ultra High-Definition Images", IEEE International Conference on Image Processing (**ICIP**), (2016).
-
-  2. A.D. Nguyen, S. Choi, **Woojae Kim**, and S. Lee, “Statistical Convolution on Unordered Point Set", IEEE International Conference on Image Processing (**ICIP**), (2020).
-
-  3. A.D. Nguyen, S. Choi, **Woojae Kim**, S. Ahn, J. Kim, and S. Lee, “Distribution Padding in Convolutional Neural Networks", IEEE International Conference on Image Processing (**ICIP**), (2019).
-
-  4. S. Ahn, **Woojae Kim**, J. Kim, J. Kim, and S. Lee, “Visual Preference Prediction for Enhanced Images on Ultra-high-definition Display", IEEE International Conference on Image Processing (**ICIP**), (2018).
-
-  5. A.D. Nguyen, S. Choi, **Woojae Kim**, and S. Lee, “A simple way of multimodal and arbitrary style transfer", IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), (2019).
-
-  6. J. Kim, **Woojae Kim**, and S. Lee, “Deep Blind Image Quality Assessment by Learning Sensitivity Map", IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), (2018).
-
-  7. J. Kim, **Woojae Kim**, S. Ahn, J. Kim, and S. Lee, “Virtual Reality Sickness Predictor: Analysis of visual-vestibular conflict and VR contents", IEEE International Conference on Quality of Multimedia Experience (**QoMEX**), (2018).
-
-  8. J. Kim, J. Kim, **Woojae Kim**, J. Kim, and S. Lee, “Video Sharpness Prediction Based on Motion Blur Analysis", IEEE International Conference on Multimedia and Expo (**ICME**), (2015).
-
-  9. **Woojae Kim**, J. Kim, and S. Lee, “Quality of Experience using Deep Convolutional Neural Networks and future trends", Signal and Information Processing Association Annual Summit and Conference (**APSIPA**), (2019).
-
-  10. *S. Lee, **Woojae Kim**, S. Ahn, J. Kim, and S. Lee, “Physical parameter prediction by embedding human perceptual parameter for 3D garment modeling", Signal and Information Processing Association Annual Summit and Conference (**APSIPA**), (2019).
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-# education_title: Education #(Use this to override about education section title)
-
-# More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-#more_content: | # this will include new lines to allow paragraphs
-#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+# Welcome to Jekyll!
 #
-#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Footer
-footer_show_references: true
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Site Settings
+locale                   : "en-US"
+title                    : "SP Tech Blog"
+title_separator          : "-"
+subtitle                 : "Image Processing Tech" # site tagline that appears below site title in masthead
+name                     : "WrrKK"
+description              : "Signal Processing and AI tech review."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/profile.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : "dark" # "light" (default), "dark"
+  utterances:
+    theme                : "github-dark" # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
+
+
+# Site Author
+author:
+  name             : "WrrKK"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Image_Processing-Vision"
+  location         : "Seoul, Korea"
+  email            : "wooyoa@yonsei.ac.kr"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - _posts
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
 plugins:
- - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
-exclude : [
-  "makefile",
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
