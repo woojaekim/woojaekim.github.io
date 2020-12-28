@@ -13,19 +13,19 @@ layout: single
 - Visual Sickness Medical Assessment (VR/AR)
 
 **International Experiences**
-  - *Research Scholarship | *NTU* | 2018.06 ~ 09.2018*
+  - *Research Scholarship* | *NTU* | *2018.06 ~ 09.2018*
 
     · Nanyang Technological University (NTU, Singapore)
     · Project title: "Deep-learning based Quality of Experience Analysis",
       Major-Advisor: Professor Weisi Lin (Fellow, IEEE).
 
-  - *Standardization Experience | *IEEE SA, P3333.1 WG* | 2015 ~*
+  - *Standardization Experience* | *IEEE SA, P3333.1 WG* | *2015 ~*
 
     · Member, P3333.1, Standardization Working Group,
       IEEE. PAR P.3333.1.2 and P3333.1.3
     · Received "Certificate of Appreciation from IEEE Computer Society".
   
-  - *Editorial Experience | *IEEE* | 2015 ~*
+  - *Editorial Experience* | *IEEE* | *2015 ~*
 
     · Editorial Reviewer on Conferences and Journal.
     · Int’l Conferences: 2018, 2019 IEEE ICME, and IEEE ICIP.
