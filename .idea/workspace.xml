@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b109d0f2-e045-40e8-8921-889da436bf78" name="Default Changelist" comment="publication add">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-12-20-third.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
@@ -52,7 +51,7 @@
       <workItem from="1608946803605" duration="1305000" />
       <workItem from="1608972706842" duration="608000" />
       <workItem from="1609121199636" duration="864000" />
-      <workItem from="1609145104000" duration="3234000" />
+      <workItem from="1609145104000" duration="3500000" />
     </task>
     <task id="LOCAL-00001" summary="publication add">
       <created>1608795085988</created>
