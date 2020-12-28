@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef345ebf-aef1-4e93-8b93-bd92944ad2b7" name="Default Changelist" comment="" />
+    <list default="true" id="b109d0f2-e045-40e8-8921-889da436bf78" name="Default Changelist" comment="publication add">
+      <change beforePath="$PROJECT_DIR$/images/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/profile.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1mBiEsJovysbEMdFVjLxwHRIk0Q" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m5s5Kk411sWUI2LpbG0IE7u0vm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,7 +21,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -28,22 +33,99 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\minimal-mistakes-master\minimal-mistakes-master\_posts" />
+      <recent name="E:\blogmanager\woojaekim.github.io\_data" />
+      <recent name="E:\blogmanager\woojaekim.github.io\_includes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef345ebf-aef1-4e93-8b93-bd92944ad2b7" name="Default Changelist" comment="" />
-      <created>1608973276511</created>
+      <changelist id="b109d0f2-e045-40e8-8921-889da436bf78" name="Default Changelist" comment="" />
+      <created>1608794602237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608973276511</updated>
-      <workItem from="1608973277645" duration="24701000" />
+      <updated>1608794602237</updated>
+      <workItem from="1608794603421" duration="7756000" />
+      <workItem from="1608946803605" duration="1305000" />
+      <workItem from="1608972706842" duration="608000" />
+      <workItem from="1609121199636" duration="864000" />
     </task>
+    <task id="LOCAL-00001" summary="publication add">
+      <created>1608795085988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608795085988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="publication add">
+      <created>1608800693147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608800693147</updated>
+    </task>
+    <task id="LOCAL-00003" summary="publication add">
+      <created>1608800892181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608800892181</updated>
+    </task>
+    <task id="LOCAL-00004" summary="publication add">
+      <created>1608800973457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608800973457</updated>
+    </task>
+    <task id="LOCAL-00005" summary="publication add">
+      <created>1608803870904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608803870904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="publication add">
+      <created>1608803979214</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608803979214</updated>
+    </task>
+    <task id="LOCAL-00007" summary="publication add">
+      <created>1608804760904</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608804760904</updated>
+    </task>
+    <task id="LOCAL-00008" summary="publication add">
+      <created>1608946823335</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608946823335</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="publication add" />
+    <option name="LAST_COMMIT_MESSAGE" value="publication add" />
   </component>
 </project>
