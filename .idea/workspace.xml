@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b109d0f2-e045-40e8-8921-889da436bf78" name="Default Changelist" comment="publication add">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-20-third.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backup_CV_page" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,6 +35,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\blogmanager\woojaekim.github.io\_posts" />
       <recent name="E:\blogmanager\woojaekim.github.io\_data" />
       <recent name="E:\blogmanager\woojaekim.github.io\_includes" />
     </key>
@@ -49,7 +52,7 @@
       <workItem from="1608946803605" duration="1305000" />
       <workItem from="1608972706842" duration="608000" />
       <workItem from="1609121199636" duration="864000" />
-      <workItem from="1609145104000" duration="2518000" />
+      <workItem from="1609145104000" duration="3234000" />
     </task>
     <task id="LOCAL-00001" summary="publication add">
       <created>1608795085988</created>
