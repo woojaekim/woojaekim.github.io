@@ -33,14 +33,14 @@ layout: single
 
 **Publications**
 
-  *INT’L JOURNALS ON ARTIFICIAL INTELLIGENCE AND SIGNAL PROCESSING*
+  *INT’L JOURNALS ON COMPUTER VISION AND SIGNAL PROCESSING*
   1. **Woojae Kim**, S. Lee and A.C. Bovik, “VR Sickness versus VR Presence: A Statistical Prediction Model", IEEE Transactions on Image Processing (**TIP**), 30, 559-571, (2020).
   2. **Woojae Kim**, A.D. Nguyen, S. Lee, and A.C. Bovik, “Dynamic Receptive Fields Generation for Full-Reference Image Quality Assessment", IEEE Transactions on Image Processing (**TIP**) 29, 4219-4231 (2020).
   3. **Woojae Kim**, S. Ahn, A.D. Nguyen, J. Kim, J. Kim, H. Oh and S. Lee, “Modern trends on quality of experience assessment and future work", APSIPA Transactions on Signal and Information Processing (**T-SIP**) 8, (2019).
   4. J. Kim, H. Oh, **Woojae Kim**, S. Choi, W. Son, and S. Lee, “A Deep Motion Sickness Predictor Induced by Visual Stimuli in Virtual Reality", IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 1 - 13, (2020).
   5. A.D. Nguyen, **Woojae Kim**, J. Kim, W. Lin, and S. Lee, “Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding", IEEE **Access** 7, (2019).
   6. H. Kim, S. Ahn, **Woojae Kim**, and S. Lee, “Visual Preference Assessment on Ultra-High-Definition Images", IEEE Transactions on Broadcasting (**TBC**) 62, 4 (2016).
-  *Under Review*:  1. K. Lee, **Woojae Kim**, S. Lee, “From Human Pose Similarity Metric to 3D Human Pose Estimator: Temporal Propagating LSTM Networks”, IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), submitted, (2020).
+  7. *Under Review*:  K. Lee, **Woojae Kim**, S. Lee, “From Human Pose Similarity Metric to 3D Human Pose Estimator: Temporal Propagating LSTM Networks”, IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), submitted, (2020).
   
   *INT’L CONFERENCES ON COMPUTER VISION AND PATTERN RECOGNITION*
   1. **Woojae Kim**, J. Kim, S. Ahn, J. Kim, and S. Lee, “Deep Video Quality Assessor: From Spatio-temporal Visual Sensitivity to A Convolutional Neural Aggregation Network.", European Conference on Computer Vision (**ECCV**), (2018).
@@ -57,4 +57,4 @@ layout: single
   7. J. Kim, **Woojae Kim**, S. Ahn, J. Kim, and S. Lee, “Virtual Reality Sickness Predictor: Analysis of visual-vestibular conflict and VR contents", IEEE International Conference on Quality of Multimedia Experience (**QoMEX**), (2018).
   8. J. Kim, J. Kim, **Woojae Kim**, J. Kim, and S. Lee, “Video Sharpness Prediction Based on Motion Blur Analysis", IEEE International Conference on Multimedia and Expo (**ICME**), (2015).
   9. **Woojae Kim**, J. Kim, and S. Lee, “Quality of Experience using Deep Convolutional Neural Networks and future trends", Signal and Information Processing Association Annual Summit and Conference (**APSIPA**), (2019).
-  10. *S. Lee, **Woojae Kim**, S. Ahn, J. Kim, and S. Lee, “Physical parameter prediction by embedding human perceptual parameter for 3D garment modeling", Signal and Information Processing Association Annual Summit and Conference (**APSIPA**), (2019).
+  10. S. Lee, **Woojae Kim**, S. Ahn, J. Kim, and S. Lee, “Physical parameter prediction by embedding human perceptual parameter for 3D garment modeling", Signal and Information Processing Association Annual Summit and Conference (**APSIPA**), (2019).
