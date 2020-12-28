@@ -48,7 +48,7 @@ layout: single
   
   *Under Review*:  1. K. Lee, **Woojae Kim**, S. Lee, “From Human Pose Similarity Metric to 3D Human Pose Estimator: Temporal Propagating LSTM Networks”, IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), submitted, (2020).
   
-  **INT’L CONFERENCES ON COMPUTER VISION AND PATTERN RECOGNITION**
+**INT’L CONFERENCES ON COMPUTER VISION AND PATTERN RECOGNITION**
   
   1. **Woojae Kim**, J. Kim, S. Ahn, J. Kim, and S. Lee, “Deep Video Quality Assessor: From Spatio-temporal Visual Sensitivity to A Convolutional Neural Aggregation Network.", European Conference on Computer Vision (**ECCV**), (2018).
   
@@ -56,7 +56,7 @@ layout: single
   
   3. A.D. Nguyen, S. Choi, **Woojae Kim**, and S. Lee, “GraphX-convolution for point cloud deformation in 2D-to-3D conversion.", IEEE International Conference on Computer Vision (**ICCV**), (2019).
   
-  **INT’L CONFERENCES ON SIGNAL PROCESSING**
+**INT’L CONFERENCES ON SIGNAL PROCESSING**
   
   1. **Woojae Kim**, H. Kim, H. Oh, J. Kim and S. Lee, “No-Reference Perceptual Sharpness Assessment for Ultra High-Definition Images", IEEE International Conference on Image Processing (**ICIP**), (2016).
   
